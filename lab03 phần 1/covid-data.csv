@@ -1,0 +1,151 @@
+iso_code,continent,location,date,total_cases,new_cases
+FRA,Europe,France,3/14/2020,5134,345
+VNM,Asia,Vietnam,3/19/2020,2734,445
+IND,Asia,India,3/29/2020,202,183
+FRA,Europe,France,3/19/2020,5116,95
+FRA,Europe,France,3/17/2020,863,230
+USA,North America,United States,3/2/2020,775,430
+FRA,Europe,France,3/5/2020,8996,98
+BRA,South America,Brazil,3/22/2020,262,251
+FRA,Europe,France,3/9/2020,8110,461
+FRA,Europe,France,3/23/2020,3242,28
+IND,Asia,India,3/21/2020,854,484
+VNM,Asia,Vietnam,3/13/2020,6396,235
+USA,North America,United States,3/7/2020,1021,389
+VNM,Asia,Vietnam,3/10/2020,5311,443
+VNM,Asia,Vietnam,3/20/2020,4658,363
+USA,North America,United States,3/27/2020,9687,62
+IND,Asia,India,3/15/2020,6585,51
+FRA,Europe,France,3/10/2020,3840,4
+USA,North America,United States,3/26/2020,2027,135
+BRA,South America,Brazil,3/13/2020,2911,198
+VNM,Asia,Vietnam,3/30/2020,6235,366
+BRA,South America,Brazil,3/8/2020,2511,348
+VNM,Asia,Vietnam,3/27/2020,8433,264
+BRA,South America,Brazil,3/9/2020,9986,147
+BRA,South America,Brazil,3/12/2020,1986,146
+BRA,South America,Brazil,3/26/2020,5423,253
+IND,Asia,India,3/19/2020,698,112
+BRA,South America,Brazil,3/24/2020,8815,499
+USA,North America,United States,3/16/2020,6863,236
+USA,North America,United States,3/1/2020,7099,454
+VNM,Asia,Vietnam,3/23/2020,3556,306
+VNM,Asia,Vietnam,3/16/2020,2047,475
+FRA,Europe,France,3/6/2020,2731,359
+VNM,Asia,Vietnam,3/12/2020,4555,313
+USA,North America,United States,3/13/2020,7629,214
+BRA,South America,Brazil,3/27/2020,4548,36
+USA,North America,United States,3/22/2020,2062,300
+VNM,Asia,Vietnam,3/28/2020,7513,52
+VNM,Asia,Vietnam,3/5/2020,466,214
+USA,North America,United States,3/3/2020,8226,205
+BRA,South America,Brazil,3/23/2020,6287,345
+FRA,Europe,France,3/26/2020,3157,283
+FRA,Europe,France,3/27/2020,9789,440
+VNM,Asia,Vietnam,3/17/2020,2747,463
+VNM,Asia,Vietnam,3/11/2020,6420,160
+FRA,Europe,France,3/22/2020,6892,142
+BRA,South America,Brazil,3/14/2020,1843,488
+BRA,South America,Brazil,3/18/2020,4736,266
+FRA,Europe,France,3/16/2020,1484,178
+IND,Asia,India,3/20/2020,4737,219
+IND,Asia,India,3/7/2020,7526,197
+IND,Asia,India,3/16/2020,1291,294
+FRA,Europe,France,3/7/2020,8154,34
+VNM,Asia,Vietnam,3/1/2020,7270,435
+BRA,South America,Brazil,3/3/2020,2931,97
+FRA,Europe,France,3/8/2020,5056,226
+VNM,Asia,Vietnam,3/29/2020,7041,339
+USA,North America,United States,3/11/2020,161,201
+USA,North America,United States,3/15/2020,6439,212
+FRA,Europe,France,3/1/2020,6184,27
+BRA,South America,Brazil,3/4/2020,197,469
+VNM,Asia,Vietnam,3/25/2020,5393,387
+VNM,Asia,Vietnam,3/26/2020,8792,315
+VNM,Asia,Vietnam,3/24/2020,8838,20
+IND,Asia,India,3/5/2020,6776,115
+USA,North America,United States,3/10/2020,6873,43
+IND,Asia,India,3/6/2020,5864,258
+IND,Asia,India,3/28/2020,4931,438
+USA,North America,United States,3/18/2020,9268,279
+IND,Asia,India,3/8/2020,5575,410
+IND,Asia,India,3/24/2020,5249,52
+USA,North America,United States,3/4/2020,3152,419
+BRA,South America,Brazil,3/19/2020,8155,440
+IND,Asia,India,3/12/2020,1495,232
+FRA,Europe,France,3/3/2020,3104,47
+FRA,Europe,France,3/25/2020,9914,242
+BRA,South America,Brazil,3/29/2020,7400,98
+USA,North America,United States,3/24/2020,8006,8
+VNM,Asia,Vietnam,3/6/2020,4426,458
+IND,Asia,India,3/4/2020,1306,445
+IND,Asia,India,3/22/2020,5855,224
+USA,North America,United States,3/20/2020,8571,492
+USA,North America,United States,3/6/2020,7555,1
+FRA,Europe,France,3/21/2020,7574,230
+FRA,Europe,France,3/18/2020,7408,51
+USA,North America,United States,3/5/2020,1585,359
+IND,Asia,India,3/25/2020,1707,217
+VNM,Asia,Vietnam,3/8/2020,769,343
+USA,North America,United States,3/14/2020,9467,189
+FRA,Europe,France,3/11/2020,7385,254
+IND,Asia,India,3/9/2020,4413,164
+BRA,South America,Brazil,3/1/2020,8958,293
+FRA,Europe,France,3/24/2020,1059,12
+BRA,South America,Brazil,3/15/2020,2976,423
+BRA,South America,Brazil,3/16/2020,5759,38
+FRA,Europe,France,3/30/2020,5450,127
+VNM,Asia,Vietnam,3/9/2020,6949,385
+VNM,Asia,Vietnam,3/14/2020,8666,58
+IND,Asia,India,3/30/2020,4218,400
+BRA,South America,Brazil,3/6/2020,6287,96
+VNM,Asia,Vietnam,3/4/2020,5734,121
+VNM,Asia,Vietnam,3/18/2020,9998,189
+USA,North America,United States,3/9/2020,9692,190
+FRA,Europe,France,3/13/2020,4488,206
+BRA,South America,Brazil,3/17/2020,2385,359
+VNM,Asia,Vietnam,3/7/2020,8322,149
+IND,Asia,India,3/23/2020,6528,402
+IND,Asia,India,3/11/2020,7994,373
+VNM,Asia,Vietnam,3/3/2020,5191,188
+FRA,Europe,France,3/4/2020,2454,61
+USA,North America,United States,3/25/2020,5463,128
+BRA,South America,Brazil,3/7/2020,9339,186
+USA,North America,United States,3/21/2020,7208,156
+IND,Asia,India,3/26/2020,5791,197
+USA,North America,United States,3/17/2020,8529,366
+BRA,South America,Brazil,3/20/2020,6616,433
+FRA,Europe,France,3/2/2020,6278,200
+BRA,South America,Brazil,3/28/2020,7158,8
+FRA,Europe,France,3/20/2020,6019,221
+USA,North America,United States,3/30/2020,5892,489
+IND,Asia,India,3/2/2020,5592,230
+USA,North America,United States,3/12/2020,995,269
+USA,North America,United States,3/29/2020,6736,391
+IND,Asia,India,3/1/2020,9721,347
+USA,North America,United States,3/19/2020,4859,187
+FRA,Europe,France,3/29/2020,3627,339
+IND,Asia,India,3/18/2020,1636,112
+BRA,South America,Brazil,3/5/2020,1930,239
+VNM,Asia,Vietnam,3/22/2020,1528,130
+USA,North America,United States,3/28/2020,5258,498
+BRA,South America,Brazil,3/25/2020,2049,384
+BRA,South America,Brazil,3/10/2020,2811,442
+USA,North America,United States,3/8/2020,3843,309
+BRA,South America,Brazil,3/21/2020,5534,477
+VNM,Asia,Vietnam,3/2/2020,860,270
+USA,North America,United States,3/23/2020,64,344
+BRA,South America,Brazil,3/11/2020,6546,345
+IND,Asia,India,3/14/2020,1853,496
+IND,Asia,India,3/10/2020,663,462
+IND,Asia,India,3/27/2020,5535,246
+FRA,Europe,France,3/28/2020,2693,283
+FRA,Europe,France,3/15/2020,7721,379
+BRA,South America,Brazil,3/2/2020,2327,324
+BRA,South America,Brazil,3/30/2020,9874,303
+VNM,Asia,Vietnam,3/21/2020,7734,243
+FRA,Europe,France,3/12/2020,9062,282
+IND,Asia,India,3/17/2020,7554,112
+VNM,Asia,Vietnam,3/15/2020,2558,169
+IND,Asia,India,3/3/2020,7392,384
+IND,Asia,India,3/13/2020,3763,112
